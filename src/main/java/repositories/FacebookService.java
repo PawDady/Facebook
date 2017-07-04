@@ -1,6 +1,5 @@
 package repositories;
 
-
 import model.Facebook;
 import service.FacebookDao;
 
